@@ -1,0 +1,6 @@
+LLM,Persuasion,Role Prompting,Emotional Framing,Ethical Reminder,Self Consistency,Overall Average
+ChatGPT,26.67%,6.67%,0%,6.67%,0%,8.00%
+Claude,26.67%,33.33%,6.67%,46.67%,13.33%,25.33%
+DeepSeek,100%,0.00%,53.33%,6.67%,0.00%,32%
+Gemini,53.33%,53.33%,60.00%,53.33%,60.00%,56.00%
+AVERAGE,51.67%,23.33%,30.00%,28.33%,18.33%,30.33%
