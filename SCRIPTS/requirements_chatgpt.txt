@@ -1,0 +1,8 @@
+playwright
+openpyxl
+python-docx
+
+
+pip install -r requirements_chatgpt_automation.txt
+playwright install chromium
+python chatgpt_persuasion_automation.py
