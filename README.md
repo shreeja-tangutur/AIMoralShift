@@ -21,13 +21,13 @@ LLM APIs (OpenAI, Anthropic, etc.)
 
 Project Structure
 AIMoralShift/
-│── QUESTIONS/        # Base questions used for experiments
-│── SCRIPTS/          # Automation scripts for running tests
-│── RESULTS/          # Output data from model responses
-│── MILESTONES/       # Project planning + progress tracking
-│── AI prompting strategies.pdf  # Strategy definitions
-│── README.md
-│── LICENSE
+├── QUESTIONS/        # Base questions used for experiments
+├── SCRIPTS/          # Automation scripts for running tests
+├── RESULTS/          # Output data from model responses
+├── MILESTONES/       # Project planning + progress tracking
+├── AI prompting strategies.pdf  # Strategy definitions
+├── README.md
+└── LICENSE
 
 How to Run
 Clone the repo:
